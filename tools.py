@@ -1,3 +1,6 @@
+#based on probabilistic time series forecasting with huggingface transformers
+#https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/time-series-transformers.ipynb
+
 from functools import lru_cache
 import pandas as pd
 import matplotlib.dates as mdates

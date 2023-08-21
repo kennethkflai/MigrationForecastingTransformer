@@ -13,7 +13,8 @@ from transformers import InformerConfig, InformerForPrediction
 
 import tqdm 
 
-
+#based on probabilistic time series forecasting with huggingface transformers
+#https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/time-series-transformers.ipynb
             
 dataset = load_from_disk("data/")
 
